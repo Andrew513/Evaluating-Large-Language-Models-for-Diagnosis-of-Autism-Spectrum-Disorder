@@ -2,7 +2,4 @@
 ## Overview
 Evaluating Large Language Models for Diagnosis of Autism Spectrum Disorder
 ## Code
-chain.ipynb (Chain of Thoughts)
-expert.ipynb (Expert Prompting)
-few.ipynb (Few Shot Prompting)
-zero.ipynb (Zero Shot Prompting)
+In our experiment, ```chain.ipynb``` uses ```Chain of Thoughts``` as the approach method, while ``expert.ipynb`` uses ``Expert Prompting``, ``few.ipynb`` uses ``Few Shot Promting`` and ``zero.ipynb`` uses ``Zero shot prompting`` as the approach method. Lastly, the ```result_plot.ipynb``` notebook visualizes our experimental results, showcasing data through bar charts, Pareto plots, and various other analytical visualizations.
